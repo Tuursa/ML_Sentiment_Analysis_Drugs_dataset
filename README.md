@@ -25,5 +25,3 @@ With this dataset, I have tried to answer the following questions/conditions:
 * Can we create a way for people to find the best medication for their illness?
 
 * What machine learning models work best for predicting the sentiment or rating based on review?
-
-### This notebook contains the EDA for the project dataset.
